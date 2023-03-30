@@ -30,16 +30,16 @@ The purpose of my analysis is to evaluate the performance of a neural network mo
  
 5.	**Interpretation:** These results indicate that the model can somewhat effectively predict the success of charity funding applications, depending on your acceptance of accuracy and loss. However, it is important to consider other models and techniques to improve performance and gain additional insights into the factors contributing to application success.
 
-6.	**Limitations:** One limitation of the current model is the potential for overfitting, given the complex architecture of the neural network. Additionally, the model's interpretability is limited, making it difficult to understand the specific factors that contribute to application success.
+6.	**Limitations:** One limitation of the current model is the potential for overfitting, given the complex architecture of the neural network. Additionally, I thought the model's interpretability was limited, making it difficult to understand the specific factors I needed to improve that would contribute to application success.
 
 
 ## Model Summary
 
-In summary, the neural network model used in this analysis achieved subpar performance in predicting the success of charity funding applications. The model's accuracy and loss values indicate its limited effectiveness in classifying applications as successful or unsuccessful.
+In summary, the neural network model I used in this analysis achieved subpar performance in predicting the success of charity funding applications. The model's accuracy and loss values indicate its limited effectiveness in classifying applications as successful or unsuccessful.
 
 ## Alternative Model: Support Vector Machines
 
-An alternative approach to solving this problem is to use a Support Vector Machine (SVM) classifier. The SVM algorithm seeks to find the best decision boundary that maximizes the margin between classes.
+Another approach to solving this problem is to use a Support Vector Machine (SVM) classifier. I have read that the SVM algorithm seeks to find the best decision boundary that maximizes the margin between classes.
 
 The main reasons for considering an SVM classifier for this problem are:
 1.	**Effectiveness:** SVMs have been proven to be effective in handling high-dimensional data, making them suitable for this problem with numerous features.
@@ -47,4 +47,4 @@ The main reasons for considering an SVM classifier for this problem are:
 3.	**Flexibility:** SVMs offer flexibility using different kernel functions, which can help capture complex relationships between features.
 
 
-In conclusion, the neural network model used in this analysis achieved somewhat satisfactory performance in predicting the success of charity funding applications. If I were the charity boss, i'd hire me based on the complex coding it takes to set these up. However, it would be essential for me to explore alternative models like the Support Vector Machine classifier, which may provide additional insights, better generalization, and possibly improved performance if my job role depended on it. Given that Deep Learning Model #7 - "Charity Funding Predictor IV" has served its purpose in our charity R&D project, the machine will be torn down for raw materials to be dedicate to the next project.
+In conclusion, the neural network model I used in this analysis achieved somewhat satisfactory performance in predicting the success of charity funding applications. If I were the charity boss, i'd hire me based on the complex coding and Googling it takes to set these up. However, it would be essential for me to explore alternative models like the Support Vector Machine classifier, which may provide additional insights, better generalization, and possibly improved performance if my job role depended on it. Given that Deep Learning Model #7 - "Charity Funding Predictor IV" has served its purpose in our charity R&D project, the machine will be torn down for raw materials that will be dedicated to the next project.
