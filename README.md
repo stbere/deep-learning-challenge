@@ -9,7 +9,7 @@ The purpose of my analysis is to evaluate the performance of a neural network mo
 1.	**Model architecture:** The deep learning model used for my analysis is a neural network with two hidden layers. The first hidden layer consists of 150 nodes, and the second hidden layer has 100 nodes. Third hidden layer consists of 75 nodes. The output layer consists of a single node with a sigmoid activation function to classify the success of a charity application as binary (successful or unsuccessful). I also added the code nn.add(tf.keras.layers.Dropout(0.2)) to deactivate a portion of neurons (20% in this case) during the training process to force the model into learning better features during the training process.
 
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/97980927/228937983-14f3bdc6-6abd-49a4-a661-32a3eef3285a.png)">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/97980927/228937983-14f3bdc6-6abd-49a4-a661-32a3eef3285a.png">
 </p>
  
 2.	**Preprocessing:** Categorical variables were converted to numeric values using one-hot encoding. The dataset was then split into training and testing datasets, and the features were scaled using StandardScaler to ensure that the model is not biased towards any particular feature.
