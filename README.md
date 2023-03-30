@@ -24,7 +24,7 @@ The purpose of my analysis is to evaluate the performance of a neural network mo
 4.	**Evaluation:** The model's performance was evaluated using the test dataset. The model achieved an accuracy of approximately 72% and a loss of 55%. I could not ascertain more efficient accuracy/loss results given the data I was working with no matter how much I adjusted the nodes in the neural network.
 
 <p align="center">
-  <img width="700" height="100" src="https://user-images.githubusercontent.com/97980927/228938095-e7eecced-28a4-4f33-9b54-6c548b81a2bf.png">
+  <img width="600" height="100" src="https://user-images.githubusercontent.com/97980927/228938095-e7eecced-28a4-4f33-9b54-6c548b81a2bf.png">
 </p>
  
 5.	**Interpretation:** These results indicate that the model can somewhat effectively predict the success of charity funding applications, depending on your acceptance of accuracy and loss. However, it is important to consider other models and techniques to improve performance and gain additional insights into the factors contributing to application success.
