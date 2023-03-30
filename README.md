@@ -4,6 +4,11 @@
 
 The purpose of my analysis is to evaluate the performance of a neural network model in predicting the success of charity funding applications. The dataset includes various features such as application type, classification, and other categorical variables that have been preprocessed to better suit a neural network model. My objectives were to identify key factors that contribute to the success of funding applications and create a model that can help organizations make better decisions in the funding process.
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/97980927/228944056-af66e4b4-ed72-4d23-927a-8dc268c8de77.png">
+</p>
+
+
 ## Results
 
 1.	**Model architecture:** The deep learning model used for my analysis is a neural network with two hidden layers. The first hidden layer consists of 150 nodes, and the second hidden layer has 100 nodes. Third hidden layer consists of 75 nodes. The output layer consists of a single node with a sigmoid activation function to classify the success of a charity application as binary (successful or unsuccessful). I also added the code nn.add(tf.keras.layers.Dropout(0.2)) to deactivate a portion of neurons (20% in this case) during the training process to force the model into learning better features during the training process.
@@ -18,8 +23,9 @@ The purpose of my analysis is to evaluate the performance of a neural network mo
 
 4.	**Evaluation:** The model's performance was evaluated using the test dataset. The model achieved an accuracy of approximately 72% and a loss of 55%. I could not ascertain more efficient accuracy/loss results given the data I was working with no matter how much I adjusted the nodes in the neural network.
 
-![image](https://user-images.githubusercontent.com/97980927/228938095-e7eecced-28a4-4f33-9b54-6c548b81a2bf.png)
-
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/97980927/228938095-e7eecced-28a4-4f33-9b54-6c548b81a2bf.pn">
+</p>
  
 5.	**Interpretation:** These results indicate that the model can somewhat effectively predict the success of charity funding applications, depending on your acceptance of accuracy and loss. However, it is important to consider other models and techniques to improve performance and gain additional insights into the factors contributing to application success.
 
