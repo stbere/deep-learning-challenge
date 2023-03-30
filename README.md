@@ -5,7 +5,7 @@
 The purpose of my analysis is to evaluate the performance of a neural network model in predicting the success of charity funding applications. The dataset includes various features such as application type, classification, and other categorical variables that have been preprocessed to better suit a neural network model. My objectives were to identify key factors that contribute to the success of funding applications and create a model that can help organizations make better decisions in the funding process.
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/97980927/228944056-af66e4b4-ed72-4d23-927a-8dc268c8de77.png">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/97980927/228944056-af66e4b4-ed72-4d23-927a-8dc268c8de77.png"></br>
   Deep Learning Model #7 - "Charity Funding Predictor IV"
 </p>
 
