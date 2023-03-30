@@ -6,6 +6,7 @@ The purpose of my analysis is to evaluate the performance of a neural network mo
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/97980927/228944056-af66e4b4-ed72-4d23-927a-8dc268c8de77.png">
+  Deep Learning Model #7 - "Charity Funding Predictor IV"
 </p>
 
 
