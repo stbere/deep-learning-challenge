@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The purpose of my analysis is to evaluate the performance of a neural network model in predicting the success of charity funding applications. The dataset includes various features such as application type, classification, and other categorical variables that have been preprocessed to better suit a neural network model. My objectives were to identify key factors that contribute to the success of funding applications and create a model that can help organizations make better decisions in the funding process.
+The purpose of my analysis is to evaluate the performance of a neural network model in predicting the success of charity funding applications for the company Alphabet Soup. The dataset includes various features such as application type, classification, and other categorical variables that have been preprocessed to better suit a neural network model. My objectives were to identify key factors that contribute to the success of funding applications and create a model that can help organizations make better decisions in the funding process.
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/97980927/228944056-af66e4b4-ed72-4d23-927a-8dc268c8de77.png"></br>
@@ -47,4 +47,4 @@ The main reasons for considering an SVM classifier for this problem are:
 3.	**Flexibility:** SVMs offer flexibility using different kernel functions, which can help capture complex relationships between features.
 
 
-In conclusion, the neural network model I used in this analysis achieved somewhat satisfactory performance in predicting the success of charity funding applications. If I were the charity boss, i'd hire me based on the complex coding and Googling it takes to set these up. However, it would be essential for me to explore alternative models like the Support Vector Machine classifier, which may provide additional insights, better generalization, and possibly improved performance if my job role depended on it. Given that Deep Learning Model #7 - "Charity Funding Predictor IV" has served its purpose in our charity R&D project, the machine will be torn down for raw materials that will be dedicated to the next project.
+In conclusion, the neural network model I used in this analysis achieved somewhat satisfactory performance in predicting the success of charity funding applications. Alphabet Soup C-Suite seemed please with our proof-of-concept thus far. However, it would be essential for me to explore alternative models like the Support Vector Machine classifier, which may provide additional insights, better generalization, and possibly improved performance if my job role depended on it. Given that Deep Learning Model #7 - "Charity Funding Predictor IV" has served its purpose in our charity R&D project, the machine will be torn down for raw materials that will be dedicated to the next project.
